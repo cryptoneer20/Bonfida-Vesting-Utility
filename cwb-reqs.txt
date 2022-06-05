@@ -1,0 +1,68 @@
+----------------------------------------------
+CHIWA BONES $CWB VESTING SCHEDULE
+----------------------------------------------
+
+CWB tokens are vested to assure a correct and secure token distribution. We defined the following chunks:
+
+
+1. Public = 2%
+Chunk for public sale
+-----------------------
+NO VESTING
+100% UNLOCK ON TGE
+
+
+2. Liquidity = 10%
+Chunk for DEX liquidity
+-----------------------
+NO VESTING
+100% UNLOCK ON TGE
+
+
+3. Reserves = 5%
+Chunk for reserves
+-----------------------
+0% UNLOCK ON TGE
+6-MONTH CLIFF
+20-MONTH LINEAR VESTING OF 5% PER MONTH
+
+
+4. Project = 18%
+Chunk for project development
+-----------------------
+25% UNLOCK ON TGE
+6-MONTH CLIFF
+15-MONTH LINEAR VESTING OF 5% PER MONTH
+
+
+5. Team = 15%
+Chunk for core team
+-----------------------
+0% UNLOCK ON TGE
+6-MONTH CLIFF
+20-MONTH LINEAR VESTING OF 5%
+
+
+6. Private = 15%
+Chunk for private sale
+-----------------------
+4% UNLOCK ON TGE
+3-MONTH CLIFF
+24-MONTH LIENAR VESTING OF 4%
+
+
+7. Community = 35%
+-----------------------
+100-MONTH LINEAR VESTING OF 1%
+
+
+----------------------------------------------
+We can reduce the distribution wallets to 3 as some of the chunks can be merged:
+
+- Public + Liquidity (for public & dex)
+- Reserves + Project + Team (for us to work with)
+- Community (for automated airdrop system)
+
+=> Important: Private sale investors would claim their tokens from the contract based on their allocation. Every private investor has a different allocation based on their investment. This should be foreseen.
+
+----------------------------------------------
